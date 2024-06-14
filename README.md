@@ -3,7 +3,8 @@ Es una herramienta de comparación, revisión y normalización de bases de datos
 # Interfaz
 Tiene una interfaz simple, fácil de utilizar.
 
-![Screenshot_1](https://github.com/Piavant/infomysql/assets/172757236/75bfe8b5-2919-4435-90b1-af7a88388a37)
+![Screenshot_3](https://github.com/Piavant/infomysql/assets/172757236/0ecc56da-199b-4225-8528-261d26746679)
+
 
 # Funcionalidad
 Fue creada por nuestro equipo para facilitarnos las tareas a la hora de gestionar bases de datos y proporciona funcionalidades que solo encontramos en herramientas de pago.
