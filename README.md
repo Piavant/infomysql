@@ -2,7 +2,9 @@
 Es una herramienta de revisión y normalización de bases de datos. Compara schema, muestra diferencias y realiza cambios en grupo para bases de datos Mysql.
 # Interfaz
 Tiene una interfaz simple, fácil de utilizar.
-![Screenshot_1](https://github.com/Piavant/infomysql/assets/172757236/6f1f1d4f-f3a4-475e-b3cf-67abeab059df)
+
+![Screenshot_1](https://github.com/Piavant/infomysql/assets/172757236/75bfe8b5-2919-4435-90b1-af7a88388a37)
+
 # Funcionalidad
 Fue creada por nuestro equipo para facilitarnos la vida a la hora de gestionar bases de datos y nos da una utilidad que solo nos daban otras herramientas de pago.
 # Libre
